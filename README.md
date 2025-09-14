@@ -6,9 +6,6 @@
 
 This is my personal data analysis project where I perform **Exploratory Data Analysis (EDA)** on New York Airbnb data. The goal is to explore patterns in listings, analyze prices, understand host behaviors, and gain insights into the Airbnb market using **Python libraries such as Pandas, Numpy, Matplotlib, and Seaborn**.
 
-![](assets/nyc.jpg)  
-![](assets/airbnb.jpg)
-
 ---
 
 ## Objective
